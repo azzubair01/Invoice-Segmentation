@@ -1,6 +1,0 @@
-.ipynb_checkpoints/*
-*.jfif
-*.png
-*.svg
-*.png
-__pycache__
