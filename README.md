@@ -13,6 +13,7 @@
   9. View results on the tensorboard.
   10. Export the model.
   11. Test the model using the trained model.
+  12. Generate csv file containing box coordinates.
 
 <div style="text-align:center"><img src="./reference/processflow.png" /></div>
   
