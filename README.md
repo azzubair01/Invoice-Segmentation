@@ -7,7 +7,7 @@
   3. Label the images using labelimg to generate xml file of the images.
   4. Convert the xml files to csv files using xml_to_csv script.
   5. Generate TFRecords of the csv files using generate_tf_records script.
-  6. Select suitable models for object detection. In my case, I used efficientdet_d0_coco17_tpu-32 model.
+  6. Select suitable models for object detection.
   7. Configure the pipeline and paths.
   8. Train & validate the model.
   9. View results on the tensorboard.
