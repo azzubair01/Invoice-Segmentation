@@ -2,7 +2,7 @@
 - Recently I have been working on invoice data to extract the data and save it as structured data which will reduce the manual data entry process. Now it has been one of the big research among the community. In this blog, I prepared some samples of data so that we can work on performing custom object detection using tensorflow.
 
 ## Steps of Invoice-Segmentation
-![Screenshot](./reference/Process Flow.png)
+![Screenshot](./reference/processflow.png)
   1. Pre-process the images so that they are of the same size. In my case, I have 600 x 600 images.
   2. Split the images into train & test folders.
   3. Label the images using labelimg to generate xml file of the images.
