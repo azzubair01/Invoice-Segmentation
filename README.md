@@ -15,7 +15,9 @@
   11. Test the model using the trained model.
   
 ## Model Accuracy
+- faster_rcnn_resnet101_v1_640x640_coco17_tpu-8 = 88.1 %
 - faster_rcnn_resnet50_v1_640x640_coco17_tpu-8  = 87.8 %
+- faster_rcnn_resnet152_v1_640x640_coco17_tpu-8 = 87.5 %
 - efficientdet_d0_coco17_tpu-32                 = 76.7 %
 - ssd_resnet50_v1_fpn_640x640_coco17_tpu-8      = 66.4 %
 - ssd_mobilenet_v2_320x320_coco17               = 28.1 %
