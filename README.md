@@ -1,4 +1,5 @@
 <div style="text-align:right"><img src="./reference/windows.png" width="50" height="50" align="right"/></div>
+<div style="text-align:right"><img src="./reference/ubuntu.png" width="50" height="50" align="right"/></div>
 
 # Invoice-Segmentation
 - Recently I have been working on invoice data to extract the data and save it as structured data which will reduce the manual data entry process. Now it has been one of the big research among the community. In this blog, I prepared some samples of data so that we can work on performing custom object detection using tensorflow.
